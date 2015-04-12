@@ -6,4 +6,4 @@ url_titles = page_source.scan(%r!^<a href="(.+?)">(.+?)</a><br />!)
 url_titles[0,4]
 
 dates.length
-url_titles.length	
+url_titles.length

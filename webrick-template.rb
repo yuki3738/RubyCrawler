@@ -1,4 +1,3 @@
-#!/usr/bin/env ruby
 require 'webrick'
 
 class TestContentServlet < WEBrick::HTTPServlet::AbstractServlet
